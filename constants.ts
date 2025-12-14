@@ -16,7 +16,7 @@ export const MOCK_VIDEOS: Video[] = [
     views: "1.2M views",
     timeAgo: "2 days ago",
     duration: "12:45",
-    thumbnail: "https://ibb.co/1YMyd5ry"
+    thumbnail: "https://i.ibb.co/5Xkpnyrp/1.jpg"
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ export const MOCK_VIDEOS: Video[] = [
     views: "890K views",
     timeAgo: "1 day ago",
     duration: "08:30",
-    thumbnail: "https://ibb.co/WWf1XSCH"
+    thumbnail: "https://i.ibb.co/zhZwgKdm/2.jpg"
   },
   {
     id: 3,
@@ -34,7 +34,7 @@ export const MOCK_VIDEOS: Video[] = [
     views: "2.5M views",
     timeAgo: "3 days ago",
     duration: "15:20",
-    thumbnail: "https://ibb.co/wF1k4qZc"
+    thumbnail: "https://i.ibb.co/Pv8LgysD/3.jpg"
   },
   {
     id: 4,
@@ -43,7 +43,7 @@ export const MOCK_VIDEOS: Video[] = [
     views: "450K views",
     timeAgo: "5 hours ago",
     duration: "06:15",
-    thumbnail: "https://ibb.co/3DHVSJD"
+    thumbnail: "https://i.ibb.co/jcFq3pc/4.jpg"
   },
   {
     id: 5,
@@ -52,7 +52,7 @@ export const MOCK_VIDEOS: Video[] = [
     views: "3.1M views",
     timeAgo: "1 week ago",
     duration: "18:00",
-    thumbnail: "https://ibb.co/QFF1jDyH"
+    thumbnail: "https://i.ibb.co/999C3ZQ4/5.jpg"
   },
   {
     id: 6,
@@ -61,7 +61,7 @@ export const MOCK_VIDEOS: Video[] = [
     views: "1.8M views",
     timeAgo: "4 days ago",
     duration: "11:10",
-    thumbnail: "https://ibb.co/tpJ2T0Ph"
+    thumbnail: "https://i.ibb.co/jkrwPCZ5/6.jpg"
   },
   {
     id: 7,
@@ -70,7 +70,7 @@ export const MOCK_VIDEOS: Video[] = [
     views: "5.6M views",
     timeAgo: "2 weeks ago",
     duration: "22:45",
-    thumbnail: "https://ibb.co/Md7vm4Z"
+    thumbnail: "https://i.ibb.co/YghCxMP/7.jpg"
   },
   {
     id: 8,
@@ -79,7 +79,7 @@ export const MOCK_VIDEOS: Video[] = [
     views: "300K views",
     timeAgo: "12 hours ago",
     duration: "05:50",
-    thumbnail: "https://ibb.co/1JPZSWMt"
+    thumbnail: "https://i.ibb.co/7tXxrB0q/9.jpg"
   },
   {
     id: 9,
@@ -88,7 +88,7 @@ export const MOCK_VIDEOS: Video[] = [
     views: "900K views",
     timeAgo: "2 days ago",
     duration: "14:20",
-    thumbnail: "https://ibb.co/zVrWPCtz"
+    thumbnail: "https://i.ibb.co/tpNBrjxh/10.jpg"
   },
   {
     id: 10,
@@ -97,7 +97,7 @@ export const MOCK_VIDEOS: Video[] = [
     views: "2.2M views",
     timeAgo: "5 days ago",
     duration: "16:40",
-    thumbnail: "https://ibb.co/gZXyKqP7"
+    thumbnail: "https://i.ibb.co/wh8FV7kg/11.jpg"
   },
   {
     id: 11,
@@ -106,7 +106,7 @@ export const MOCK_VIDEOS: Video[] = [
     views: "1.5M views",
     timeAgo: "3 days ago",
     duration: "13:15",
-    thumbnail: "https://ibb.co/MkKxrfvS"
+    thumbnail: "https://i.ibb.co/ZzSCFBxK/12.jpg"
   },
   {
     id: 12,
@@ -115,7 +115,7 @@ export const MOCK_VIDEOS: Video[] = [
     views: "4.1M views",
     timeAgo: "1 week ago",
     duration: "19:30",
-    thumbnail: "https://ibb.co/RTNWs3cP"
+    thumbnail: "https://i.ibb.co/xSmwL1Rn/13.jpg"
   },
   {
     id: 13,
@@ -124,7 +124,7 @@ export const MOCK_VIDEOS: Video[] = [
     views: "750K views",
     timeAgo: "1 day ago",
     duration: "09:45",
-    thumbnail: "https://ibb.co/Fbsc35jQ"
+    thumbnail: "https://i.ibb.co/93dpS3dR/14.jpg"
   },
   {
     id: 14,
@@ -133,6 +133,6 @@ export const MOCK_VIDEOS: Video[] = [
     views: "3.3M views",
     timeAgo: "6 days ago",
     duration: "21:10",
-    thumbnail: "https://ibb.co/dJHfxJHn"
+    thumbnail: "https://i.ibb.co/RGLd0MYy/15.jpg"
   }
 ];
